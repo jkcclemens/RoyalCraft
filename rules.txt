@@ -3,132 +3,133 @@ rules are subject to change at any time, and it is the responsibility of the pla
 Players will not be notified of rule changes.
 
 Contents
- A. General Rules
- B. PvP Rules
- C. Faction Rules
- D. Chat Rules
+  A. General Rules
+  B. PvP Rules
+  C. Faction Rules
+  D. Chat Rules
 
 A. General Rules
 
-01) All staff members are to be respected at all times. They volunteer their time to police the server, and they do not
-get paid for it, so please show them respect.
+  01) All staff members are to be respected at all times. They volunteer their time to police the server, and they do
+  not get paid for it, so please show them respect.
 
-02) Griefing is defined as breaking or building on anything that does not belong to you that was created by another
-player. Any instance of grief will not be tolerated.
+  02) Griefing is defined as breaking or building on anything that does not belong to you that was created by another
+  player. Any instance of grief will not be tolerated.
 
-03) Use of hacked clients such as Nodus is not acceptable. Other mods such as X-Ray mods (ore-finder) are also not
-allowed. The mods allowed are as follows:
-  * TooManyItems/NotEnoughItems
-  * Rei's Minimap (or other similar minimaps)
-  * RoyalSkins
-Furthermore, if a mod not listed as safe for use in the rules would like to be used, permission should be acquired
-prior to use.
+  03) Use of hacked clients such as Nodus is not acceptable. Other mods such as X-Ray mods (ore-finder) are also not
+  allowed. The mods allowed are as follows:
+    * TooManyItems/NotEnoughItems
+    * Rei's Minimap (or other similar minimaps)
+    * RoyalSkins
+  Furthermore, if a mod not listed as safe for use in the rules would like to be used, permission should be acquired
+  prior to use.
 
-04) The use of ender pearls to teleport inside of //locked// houses or other protected areas is **strictly**
-prohibited.
+  04) The use of ender pearls to teleport inside of //locked// houses or other protected areas is **strictly**
+  prohibited.
 
-05) Be courteous and respectful to the other players of the server. The server is shared, and a negative environment
-does not help anyone.
+  05) Be courteous and respectful to the other players of the server. The server is shared, and a negative environment
+  does not help anyone.
 
-06) Offensive buildings/structures are prohibited. These are not respectful to all players. Examples of offensive
-builds include, but are not limited to:
-  * Swastikas
-  * The World Trade Center filled with TNT
-  * Genitalia
-  * Vulgar words
-  * Inappropriate symbols
+  06) Offensive buildings/structures are prohibited. These are not respectful to all players. Examples of offensive
+  builds include, but are not limited to:
+    * Swastikas
+    * The World Trade Center filled with TNT
+    * Genitalia
+    * Vulgar words
+    * Inappropriate symbols
 
-07) Only one account is permitted per user/IP. If multiple people live in the same household (and share the same IP),
-this must be expressed to staff members before an application is accepted.
+  07) Only one account is permitted per user/IP. If multiple people live in the same household (and share the same IP),
+  this must be expressed to staff members before an application is accepted.
 
-08) The only way to obtain a Civilian status is by having an application accepted at apply.royaldev.org.
+  08) The only way to obtain a Civilian status is by having an application accepted at apply.royaldev.org.
 
-09) Raiding, spawn-killing, stealing, looting, griefing, or other focused, intentional, harm-causing activities are
-prohibited. See PvP rules for information about PvP.
+  09) Raiding, spawn-killing, stealing, looting, griefing, or other focused, intentional, harm-causing activities are
+  prohibited. See PvP rules for information about PvP.
 
-10) Attacks on the server (hardware related) are not permitted. All IPs associated in an attack will be blacklisted,
-and the respective ISPs of said IP addresses will be alerted. Legal discourse may be taken if the offense is serious
-enough.
+  10) Attacks on the server (hardware related) are not permitted. All IPs associated in an attack will be blacklisted,
+  and the respective ISPs of said IP addresses will be alerted. Legal discourse may be taken if the offense is serious
+  enough.
 
-11) Staff members are not required to assist players in building or other game activities. Staff members //are//
-required to investigate claims of grief or other rule-breaking activities.
+  11) Staff members are not required to assist players in building or other game activities. Staff members //are//
+  required to investigate claims of grief or other rule-breaking activities.
 
-12) Using privileges not available to other players for other players is prohibited. Examples of such actions include
-  * Spawning items for players without spawning privileges
-  * Teleporting players to inaccessible areas
-Furthermore, using privileges not available to other players against other players is prohibited. Staff are not bound
-by this rule.
+  12) Using privileges not available to other players for other players is prohibited. Examples of such actions include
+    * Spawning items for players without spawning privileges
+    * Teleporting players to inaccessible areas
+  Furthermore, using privileges not available to other players against other players is prohibited. Staff are not bound
+  by this rule.
 
-13) Advertising any product or server is strictly prohibited.
+  13) Advertising any product or server is strictly prohibited.
 
-14) Staff members have the final say on any rule-based decision.
+  14) Staff members have the final say on any rule-based decision.
 
-15) The minimum age for play is 13. The recommended age is 18. Players under 13 years of age will be banned.
+  15) The minimum age for play is 13. The recommended age is 18. Players under 13 years of age will be banned.
 
-16) Ranks and donation perks may be taken away at any time for any reason. Donating does not exempt a player from bans.
-Donations will not be refunded, nor will any compensation be given for losing access to the server after donating.
+  16) Ranks and donation perks may be taken away at any time for any reason. Donating does not exempt a player from
+  bans. Donations will not be refunded, nor will any compensation be given for losing access to the server after
+  donating.
 
 B. PvP Rules (Player vs Player)
 
-01) PvP that is unwarranted is not allowed. Any PvP where either side of the fight has not accepted a duel is
-prohibited. PvP where both sides have agreed to a fight is permitted. Examples of warranted PvP:
-  * A player is inside of private property owned by the attacker
-Examples of unwarranted PvP:
-  * Accepting a teleport request and killing the person that was teleported
-  * Running around and killing people at random
-  * Killing people for being near private property
-  * Killing people for fun  
+  01) PvP that is unwarranted is not allowed. Any PvP where either side of the fight has not accepted a duel is
+  prohibited. PvP where both sides have agreed to a fight is permitted. Examples of warranted PvP:
+    * A player is inside of private property owned by the attacker
+  Examples of unwarranted PvP:
+    * Accepting a teleport request and killing the person that was teleported
+    * Running around and killing people at random
+    * Killing people for being near private property
+    * Killing people for fun  
 
-02) Self-defense is allowed. If any unwarranted PvP occurs, the recipient may retaliate and kill the attacker.
+  02) Self-defense is allowed. If any unwarranted PvP occurs, the recipient may retaliate and kill the attacker.
 
-03) Items won in PvP (self-defense included) may be kept by the killer.
+  03) Items won in PvP (self-defense included) may be kept by the killer.
 
-04) The safest way for PvP to be approached is by setting up a match. If both players agree to the match, then both
-sides are protected by the PvP rules. This is valid PvP.
+  04) The safest way for PvP to be approached is by setting up a match. If both players agree to the match, then both
+  sides are protected by the PvP rules. This is valid PvP.
 
-05) If PvP is reported, the responding staff member will decide if the PvP was warranted.
+  05) If PvP is reported, the responding staff member will decide if the PvP was warranted.
 
 C. Faction Rules
 
-01) Land may not be stolen from other factions unless both factions are set as enemies.
+  01) Land may not be stolen from other factions unless both factions are set as enemies.
 
-02) Bribes, blackmail, or threats are not acceptable methods of faction recruiting. Use of such methods is strictly
-prohibited.
+  02) Bribes, blackmail, or threats are not acceptable methods of faction recruiting. Use of such methods is strictly
+  prohibited.
 
-03) New factions may not be created bordering another faction.
+  03) New factions may not be created bordering another faction.
 
-04) Rules written down in a faction by a staff member of that faction are considered server rules for members of that
-faction. Not following such rules may result in punishments equivalent to breaking a server rule.
+  04) Rules written down in a faction by a staff member of that faction are considered server rules for members of that
+  faction. Not following such rules may result in punishments equivalent to breaking a server rule.
 
-05) Leaders kicked out of their faction for inactivity will not be reset to leader when they return. It is up to the
-leader to make sure that he remains active.
+  05) Leaders kicked out of their faction for inactivity will not be reset to leader when they return. It is up to the
+  leader to make sure that he remains active.
 
-06) Faction rules may not supersede server rules.
+  06) Faction rules may not supersede server rules.
 
-07) PvP rules in claimed faction land are defined by the leader of the faction that has claimed the land.
+  07) PvP rules in claimed faction land are defined by the leader of the faction that has claimed the land.
 
-08) Land may not be claimed for the sole purpose of using faction-defined PvP rules. For example, spotting someone in
-the wilderness and claiming the land they are in to kill them is not allowed.
+  08) Land may not be claimed for the sole purpose of using faction-defined PvP rules. For example, spotting someone in
+  the wilderness and claiming the land they are in to kill them is not allowed.
 
 D. Chat Rules
 
-01) The recommended playing age for this server is eighteen (18) years of age. Content in the game (chat included) will
-not be curbed in any manner. If this is unacceptable, do not use the server.
+  01) The recommended playing age for this server is eighteen (18) years of age. Content in the game (chat included)
+  will not be curbed in any manner. If this is unacceptable, do not use the server.
 
-02) Excessive verbal abuse is not allowed. Arguments should be taken into private messages. No one likes being caught
-in a quarrel.
+  02) Excessive verbal abuse is not allowed. Arguments should be taken into private messages. No one likes being caught
+  in a quarrel.
 
-03) Sexual harassment will not be tolerated. Sexually themed messages, buildings, etc. will not be accepted. Any sexual
-abuse/harassment should be reported to staff or posted on the forums immediately.
+  03) Sexual harassment will not be tolerated. Sexually themed messages, buildings, etc. will not be accepted. Any
+  sexual abuse/harassment should be reported to staff or posted on the forums immediately.
 
-04) Asking for ranks in chat is prohibited.
+  04) Asking for ranks in chat is prohibited.
 
-05) Profane language is allowed, but unnecessary, repeated use of it is prohibited.
+  05) Profane language is allowed, but unnecessary, repeated use of it is prohibited.
 
-06) English is the main language of this server. If any other language is spoken, it must be spoken via private message
-or a party. There should only be English in the main chat.
+  06) English is the main language of this server. If any other language is spoken, it must be spoken via private
+  message or a party. There should only be English in the main chat.
 
-07) Spamming is strictly prohibited. Spamming is defined as sending the same message more than three times in a row in
-rapid succession.
+  07) Spamming is strictly prohibited. Spamming is defined as sending the same message more than three times in a row
+  in rapid succession.
 
 RoyalCraft Rules r12
