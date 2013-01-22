@@ -125,4 +125,10 @@ abuse/harassment should be reported to staff or posted on the forums immediately
 
 05) Profane language is allowed, but unnecessary, repeated use of it is prohibited.
 
-RoyalCraft Rules r11
+06) English is the main language of this server. If any other language is spoken, it must be spoken via private message
+or a party. There should only be English in the main chat.
+
+07) Spamming is strictly prohibited. Spamming is defined as sending the same message more than three times in a row in
+rapid succession.
+
+RoyalCraft Rules r12
