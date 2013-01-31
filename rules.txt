@@ -73,7 +73,8 @@ B. PvP Rules (Player vs Player)
 
   01) PvP that is unwarranted is not allowed. Any PvP where either side of the fight has not accepted a duel is
   prohibited. PvP where both sides have agreed to a fight is permitted. Examples of warranted PvP:
-    * A player is inside of private property owned by the attacker
+    * A player is inside of private property owned by the attacker - note that if the player was teleported inside
+      private property, the kill is unwarranted
   Examples of unwarranted PvP:
     * Accepting a teleport request and killing the person that was teleported
     * Running around and killing people at random
@@ -132,4 +133,4 @@ D. Chat Rules
   07) Spamming is strictly prohibited. Spamming is defined as sending the same message more than three times in a row
   in rapid succession.
 
-RoyalCraft Rules r12
+RoyalCraft Rules r13
