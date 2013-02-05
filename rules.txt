@@ -69,6 +69,8 @@ A. General Rules
   bans. Donations will not be refunded, nor will any compensation be given for losing access to the server after
   donating.
 
+  17) Any player may be banned at any time for any reason by any staff member under his or her discretion.
+
 B. PvP Rules (Player vs Player)
 
   01) PvP that is unwarranted is not allowed. Any PvP where either side of the fight has not accepted a duel is
@@ -133,4 +135,4 @@ D. Chat Rules
   07) Spamming is strictly prohibited. Spamming is defined as sending the same message more than three times in a row
   in rapid succession.
 
-RoyalCraft Rules r13
+RoyalCraft Rules r14
