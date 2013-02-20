@@ -69,7 +69,8 @@ A. General Rules
   bans. Donations will not be refunded, nor will any compensation be given for losing access to the server after
   donating.
 
-  17) Any player may be banned at any time for any reason by any staff member under his or her discretion.
+  17) Any player may be given any punishment deemed suitable at any time for any reason by any staff member under his
+  or her discretion.
 
 B. PvP Rules (Player vs Player)
 
@@ -135,4 +136,32 @@ D. Chat Rules
   07) Spamming is strictly prohibited. Spamming is defined as sending the same message more than three times in a row
   in rapid succession.
 
-RoyalCraft Rules r14
+E. War Rules
+
+  01) Use of spawned items, spawning items in game, flying, and use of godmode, buddhamode, or something else that
+  prevents death is prohibited.
+
+  02) In all spleef warzones, both islanding and spawn destroying are prohibited. Islanding is the removal or all
+  blocks around a player, making that player unreachable. Spawn destroying is breaking all the blocks around a team's
+  spawn point, making it impossible for them to win. Spawn destroying //is// allowed in hardcore spleef, as long as the
+  obsidian remains intact.
+
+  03) Specific warzone rules:
+    a) Spleef
+      i) One must stay on the level they fall to. Building to a higher level is prohibited.
+      ii) If a player dies, he must proceed to the lowest level with a player on it.
+    b) Hardcore Spleef
+      i) Trying to kill teammates is not allowed.
+    c) PvP
+      i) The wool in the chests is only to be taken by the team of its respective color.
+      ii) Stealing the other team's spawn monument is legal, but holding all three monuments at the same time without
+      letting the other team have a chance is frowned upon.
+      iii) The placing or removal of any block besides flags is prohibited.
+    d) Bomb
+      i) Focusing on only one player or team in the PvP aspect of the game is not allowed.
+    e) Sumo
+      i) The objective is to knock the other player off of the tower.
+    f) CTF
+      i) Camping (remaining in the same area over time) in the other team's flag or spawn is prohibited.
+
+RoyalCraft Rules r16
