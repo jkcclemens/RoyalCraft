@@ -164,4 +164,6 @@ E. War Rules
     f) CTF
       i) Camping (remaining in the same area over time) in the other team's flag or spawn is prohibited.
 
-RoyalCraft Rules r16
+  04) All PvP inside of a War arena is warranted.
+
+RoyalCraft Rules r17
