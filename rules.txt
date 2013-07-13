@@ -5,8 +5,10 @@ Players will not be notified of rule changes.
 Contents
   A. General Rules
   B. PvP Rules
-  C. Faction Rules
+  C. Clan Rules
   D. Chat Rules
+  E. War Rules
+  F. OpenPvP Rules
 
 A. General Rules
 
@@ -24,8 +26,7 @@ A. General Rules
   Furthermore, if a mod not listed as safe for use in the rules would like to be used, permission should be acquired
   prior to use.
 
-  04) The use of ender pearls to teleport inside of //locked// houses or other protected areas is **strictly**
-  prohibited.
+  04) The use of ender pearls to teleport inside of locked houses or other protected areas is strictly prohibited.
 
   05) Be courteous and respectful to the other players of the server. The server is shared, and a negative environment
   does not help anyone.
@@ -66,14 +67,18 @@ A. General Rules
   15) The minimum age for play is sixteen (16). The recommended age is eighteen (18). Players under sixteen years of
   age will be banned.
 
-  16) Ranks and donation perks may be taken away at any time for any reason. Donating does not exempt a player from
-  bans. Donations will not be refunded, nor will any compensation be given for losing access to the server after
-  donating.
+  16) Ranks and donation perks may be taken away at any time for any reason. Donating or buying a rank does not exempt a
+  player from bans. Donations and payments will not be refunded, nor will any compensation be given for losing access to
+  the server after donating or buying a rank.
 
   17) Any player may be given any punishment deemed suitable at any time for any reason by any staff member under his
   or her discretion.
 
   18) Selling, trading, or ownership transfer of spawned items is not permitted.
+
+  19) Possession, selling, trading, or any other means of ownership transfer of overpowered ("god") weapons or items is
+  strictly prohibited. An overpowered weapon or item is defined as anything with enchantments that cannot be together or
+  exist in "vanilla" (no modifications) Minecraft.
 
 B. PvP Rules (Player vs Player)
 
@@ -85,7 +90,7 @@ B. PvP Rules (Player vs Player)
     * Accepting a teleport request and killing the person that was teleported
     * Running around and killing people at random
     * Killing people for being near private property
-    * Killing people for fun  
+    * Killing people for fun
 
   02) Self-defense is allowed. If any unwarranted PvP occurs, the recipient may retaliate and kill the attacker.
 
@@ -96,27 +101,23 @@ B. PvP Rules (Player vs Player)
 
   05) If PvP is reported, the responding staff member will decide if the PvP was warranted.
 
-C. Faction Rules
+C. Clan Rules
 
-  01) Land may not be stolen from other factions unless both factions are set as enemies.
-
-  02) Bribes, blackmail, or threats are not acceptable methods of faction recruiting. Use of such methods is strictly
+  01) Bribes, blackmail, or threats are not acceptable methods of clan recruiting. Use of such methods is strictly
   prohibited.
 
-  03) New factions may not be created bordering another faction.
+  02) Clan homes may not be set inside of another clan's base.
 
-  04) Rules written down in a faction by a staff member of that faction are considered server rules for members of that
-  faction. Not following such rules may result in punishments equivalent to breaking a server rule.
+  03) Rules written down in a clan by a staff member of that clan are considered server rules for members of that clan.
+  Not following such rules may result in punishments equivalent to breaking a server rule.
 
-  05) Leaders kicked out of their faction for inactivity will not be reset to leader when they return. It is up to the
+  05) Leaders kicked out of their clan for inactivity will not be reset to leader when they return. It is up to the
   leader to make sure that he remains active.
 
-  06) Faction rules may not supersede server rules.
+  06) Clan rules may not supersede server rules.
 
-  07) PvP rules in claimed faction land are defined by the leader of the faction that has claimed the land.
-
-  08) Land may not be claimed for the sole purpose of using faction-defined PvP rules. For example, spotting someone in
-  the wilderness and claiming the land they are in to kill them is not allowed.
+  07) Clan wars are allowed. Members of the warring clans may kill enemies freely and without restriction so long as the
+  war remains.
 
 D. Chat Rules
 
@@ -138,6 +139,10 @@ D. Chat Rules
 
   07) Spamming is strictly prohibited. Spamming is defined as sending the same message more than three times in a row
   in rapid succession.
+
+  08) Using colors in chat is allowed for ranks with the permission to; however, using colors at the start of a message
+  for the whole message is not allowed. This can be done a few times, but not always. Using the gold color code (&6) to
+  do such is also prohibited.
 
 E. War Rules
 
@@ -169,4 +174,8 @@ E. War Rules
 
   04) All PvP inside of a War arena is warranted.
 
-RoyalCraft Rules r18
+F. OpenPvP Rules
+
+  01) All PvP inside of an OpenPvP zone is warranted.
+
+RoyalCraft Rules r19
