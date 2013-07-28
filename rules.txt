@@ -5,7 +5,7 @@ Players will not be notified of rule changes.
 Contents
   A. General Rules
   B. PvP Rules
-  C. Clan Rules
+  C. Faction Rules
   D. Chat Rules
   E. War Rules
   F. OpenPvP Rules
@@ -101,23 +101,28 @@ B. PvP Rules (Player vs Player)
 
   05) If PvP is reported, the responding staff member will decide if the PvP was warranted.
 
-C. Clan Rules
+C. Faction Rules
 
-  01) Bribes, blackmail, or threats are not acceptable methods of clan recruiting. Use of such methods is strictly
+  01) Land may not be stolen from other factions unless both factions are set as enemies.
+
+  02) Bribes, blackmail, or threats are not acceptable methods of faction recruiting. Use of such methods is strictly
   prohibited.
 
-  02) Clan homes may not be set inside of another clan's base.
+  03) New factions may not be created bordering another faction.
 
-  03) Rules written down in a clan by a staff member of that clan are considered server rules for members of that clan.
-  Not following such rules may result in punishments equivalent to breaking a server rule.
+  04) Rules written down in a faction by a staff member of that faction are considered server rules for members of that
+  faction. Not following such rules may result in punishments equivalent to breaking a server rule.
 
-  05) Leaders kicked out of their clan for inactivity will not be reset to leader when they return. It is up to the
+  05) Leaders kicked out of their faction for inactivity will not be reset to leader when they return. It is up to the
   leader to make sure that he remains active.
 
-  06) Clan rules may not supersede server rules.
+  06) Faction rules may not supersede server rules.
 
-  07) Clan wars are allowed. Members of the warring clans may kill enemies freely and without restriction so long as the
-  war remains.
+  07) Faction wars are allowed. Members of the warring factions may kill enemies freely and without restriction so long
+  as the war remains.
+
+  08) Land may not be claimed for the sole purpose of using faction-defined PvP rules. For example, spotting someone in
+  -  the wilderness and claiming the land they are in to kill them is not allowed.
 
 D. Chat Rules
 
