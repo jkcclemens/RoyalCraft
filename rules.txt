@@ -183,4 +183,4 @@ F. OpenPvP Rules
 
   01) All PvP inside of an OpenPvP zone is warranted.
 
-RoyalCraft Rules r19
+RoyalCraft Rules r20
