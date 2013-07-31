@@ -80,6 +80,8 @@ A. General Rules
   strictly prohibited. An overpowered weapon or item is defined as anything with enchantments that cannot be together or
   exist in "vanilla" (no modifications) Minecraft.
 
+  20) Orders given by staff members must be followed by lesser ranks.
+
 B. PvP Rules (Player vs Player)
 
   01) PvP that is unwarranted is not allowed. Any PvP where either side of the fight has not accepted a duel is
