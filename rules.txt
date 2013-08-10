@@ -51,8 +51,8 @@ A. General Rules
   and the respective ISPs of said IP addresses will be alerted. Legal discourse may be taken if the offense is serious
   enough.
 
-  11) Staff members are not required to assist players in building or other game activities. Staff members //are//
-  required to investigate claims of grief or other rule-breaking activities.
+  11) Staff members are not required to assist players in building or other game activities. Staff members are required
+  to investigate claims of grief or other rule-breaking activities.
 
   12) Using privileges not available to other players for other players is prohibited. Examples of such actions include
     * Spawning items for players without spawning privileges
@@ -124,7 +124,7 @@ C. Faction Rules
   as the war remains.
 
   08) Land may not be claimed for the sole purpose of using faction-defined PvP rules. For example, spotting someone in
-  -  the wilderness and claiming the land they are in to kill them is not allowed.
+  the wilderness and claiming the land they are in to kill them is not allowed.
 
 D. Chat Rules
 
@@ -158,7 +158,7 @@ E. War Rules
 
   02) In all spleef warzones, both islanding and spawn destroying are prohibited. Islanding is the removal or all
   blocks around a player, making that player unreachable. Spawn destroying is breaking all the blocks around a team's
-  spawn point, making it impossible for them to win. Spawn destroying //is// allowed in hardcore spleef, as long as the
+  spawn point, making it impossible for them to win. Spawn destroying is allowed in hardcore spleef, as long as the
   obsidian remains intact.
 
   03) Specific warzone rules:
@@ -185,4 +185,4 @@ F. OpenPvP Rules
 
   01) All PvP inside of an OpenPvP zone is warranted.
 
-RoyalCraft Rules r20
+RoyalCraft Rules r21
