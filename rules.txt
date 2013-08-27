@@ -23,6 +23,9 @@ A. General Rules
     * TooManyItems/NotEnoughItems
     * Rei's Minimap (or other similar minimaps)
     * RoyalSkins
+    * Bookmarks
+    * InventoryTweaks (or similar)
+    * Optifine
   Furthermore, if a mod not listed as safe for use in the rules would like to be used, permission should be acquired
   prior to use.
 
