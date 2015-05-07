@@ -1,5 +1,5 @@
 # RoyalCraft Factions Rules
-Revision 1
+Revision 2
 
 ## Preamble
 Not following any of these rules is grounds for a permanent ban. It is up to the individual staff member handling a breach in these rules to decide the correct punishment. Punishments may be less severe than a permanent ban. Respect the decisions made by the staff.
@@ -18,7 +18,8 @@ Finally, feel free to suggest rules or to make pull requests to revise these rul
 ## 1. General Rules
 1. Respect all staff members. 
 2. Do not kill, raid, or grief without reason. Those who are factionless are not to be attacked without sufficient cause.
-3. Do not use mods that are not on the following safe list:
+   * Killing, raiding, and griefing are all acceptable actions between members of two or more warring factions.
+3. A player CANNOT be banned for using a mod on the following list. Other mods may be allowed, but certain uses of them may result in a ban. For example, the Macro / Keybind mod is not harmful by itself, but using it to make PvP unfair will result in a ban.
    * NotEnoughItems/TooManyItems
    * WorldEditCUI
    * Rei's Minimap (or other similar minimaps)
@@ -32,6 +33,7 @@ Finally, feel free to suggest rules or to make pull requests to revise these rul
 9. Play pure survival.
 10. Commands given by staff members must be followed by players of lesser rank.
 11. Any player may be given any punishment deemed suitable at any time for any reason by any staff member under his or her discretion.
+12. Any staff member, so long as he is of higher rank, may override a decision made by a staff member of lower rank.
 
 <a id="2-pvp-rules"></a>
 ## 2. PvP Rules
@@ -43,6 +45,7 @@ Finally, feel free to suggest rules or to make pull requests to revise these rul
 1. Membership in a faction is not guaranteed. A member of faction staff, if abiding by faction rules, may remove any player for no longer being satisfactory.
 2. Faction rules may not supersede server rules. If any such rule is made, it is invalid.
 3. New factions may not be created bordering another faction.
+4. Peaceful factions and their members are not to be harassed in any way.
 
 <a id="4-chat-rules"></a>
 ## 4. Chat Rules
@@ -53,3 +56,4 @@ Finally, feel free to suggest rules or to make pull requests to revise these rul
 5. Only English may be used in public chat.
 6. Long arguments must be taken into a private chat.
 7. Ranks may not be asked for in chat.
+8. Use local chat or party chat whenever possible.
